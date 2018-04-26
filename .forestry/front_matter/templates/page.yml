@@ -8,6 +8,7 @@ fields:
 - type: text
   name: title
   label: Title
+  default: This is the page template title
 - type: blocks
   name: blocks
   label: Blocks
