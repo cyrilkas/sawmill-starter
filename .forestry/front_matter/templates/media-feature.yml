@@ -11,6 +11,10 @@ fields:
 - type: textarea
   name: content
   label: Content
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
 - type: select
   name: background_style
   config:
